@@ -6,7 +6,6 @@
 
 |                          Repository                          |                      Describe                      |
 | :----------------------------------------------------------: | :------------------------------------------------: |
-|     [美食抽奖](http://try-agaaain.online/raffle)      | A lottery system built with Spring Boot, MyBatis, RabbitMQ, MySQL, and Redis.  |
 |     [Hello-D1](https://github.com/try-agaaain/Hello-D1)      | A hello-world program running on the Allwinner D1  |
 | [asio_tutorial_zh](https://try-agaaain.github.io/asio_tutorial_zh/) |          Personal unofficial translation of [boost::asio tutorial](https://www.boost.org/doc/libs/1_82_0/doc/html/boost_asio/tutorial.html)          |
 | [simple_image_classification](https://github.com/try-agaaain/simple_image_classification/tree/main) |  Indoor/outdoor image binary classification using linear regression and gradient descent  |
