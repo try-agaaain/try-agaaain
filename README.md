@@ -1,6 +1,6 @@
 
 ### Some academic outputs
-+ [LRRSSN](https://github.com/try-agaaain/cloud-removal/tree/clean): "Thick Cloud Removal in Multitemporal Remote Sensing Images via Low-Rank Regularized Self-Supervised Network" at  [IEEE Trans. Geosci. Remote Sens.](https://ieeexplore.ieee.org/document/10414167)
++ [LRRSSN](https://github.com/try-agaaain/LRRSSN): "Thick Cloud Removal in Multitemporal Remote Sensing Images via Low-Rank Regularized Self-Supervised Network" at  [IEEE Trans. Geosci. Remote Sens.](https://ieeexplore.ieee.org/document/10414167)
 + [Kgent](https://github.com/eunomia-bpf/GPTtrace): "Kgent: Kernel Extensions Large Language Model Agent" at [ACM SIGMOOC ebpf'24](https://dl.acm.org/doi/10.1145/3672197.3673434)
 ### Some practice
 
